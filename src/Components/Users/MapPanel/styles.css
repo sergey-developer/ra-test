@@ -1,0 +1,14 @@
+.map-panel-container {
+    text-decoration: none;
+    overflow: hidden;
+    max-width: 100%;
+    width: 600px;
+    height: 400px;
+}
+
+.map-panel-container #gmapcanvas img {
+    max-width: none !important;
+    background: none !important;
+    font-size: inherit;
+    font-weight: inherit;
+}
